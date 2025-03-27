@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related Local APIs"
+  contactDetails:
+    name: "Samantha Local - Local Owner"
+    email: "localsupport@gmail.com"
+  onCallSupport:
+    - LocalSupport@gmail.com
+    - Herr Local Host Api

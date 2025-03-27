@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related Production APIs"
+  contactDetails:
+    name: "Irina production - Production Owner"
+    email: "productionsupport@gmail.com"
+  onCallSupport:
+    - Production@gmail.com
+    - Herr Production Host Api
