@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related Local APIs"
   contactDetails:
     name: "Samantha Local - Local Owner"
-    email: "d4d936c56fab3d2062641f92d75a68034e32d947dc7be2d849946f4a064424b809438eb97fa9f0b092a02c5e9d7174cc"
+    email: "{cipher}d4d936c56fab3d2062641f92d75a68034e32d947dc7be2d849946f4a064424b809438eb97fa9f0b092a02c5e9d7174cc"
   onCallSupport:
     - LocalSupport@gmail.com
     - Herr Local Host Api
