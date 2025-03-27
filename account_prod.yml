@@ -2,7 +2,7 @@ build:
   version: "9.0"
 
 accounts:
-  message: "Bienvenue au Json City Ville de Dirane Serges "
+  message: "Bienvenue"
   contactDetails:
     name: "Dinidi Deeds"
     email: "{cipher}d4d936c56fab3d2062641f92d75a68034e32d947dc7be2d849946f4a064424b809438eb97fa9f0b092a02c5e9d7174cc"
